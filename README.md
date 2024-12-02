@@ -63,3 +63,13 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 2 - For explanation go to thesis document section 2.6, 2.7, 2.8 for the background and Chapter 8
 
+## 8 - System Integration
+
+## 9 - Flight Tests
+
+## 10 - Sci Tech Paper
+
+1- For scitech paper title "Performance Analysis of Machine Learning Algorithms to Human-Pilot-Model Parameter Estimation"
+
+  - Code: -----
+  - Explanation: see paper
