@@ -57,6 +57,8 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 3 - SkLearn modeling is made simpler because they are pre made functions that you can import into your python code, thus the barrier of entry is very low to understand the codes
 
+4 - For the data I used so that u can import it into the code and run the code ---still working on how to upload the data since large file size---
+
 ## 7 - Pilot-induced oscillation and Flying qualities
 
 1 - For the clean/commented code ----
