@@ -48,3 +48,18 @@ Final Thoughts: The code should be well explained enough with comments and the c
 3 - For the data I used so that u can import it into the code and run the code ---still working on how to upload the data since large file size---
 
 Final Thoughts: The code should be well explained enough with comments and the code along with thesis section 6 should serve enough of a pseudo readme
+
+## 6 - SciKit Learn
+
+1 - For the commented/clean Code ------
+
+2 - For examplanation go to thesis document Chapter 7 and section 2.4 for the background.
+
+3 - SkLearn modeling is made simpler because they are pre made functions that you can import into your python code, thus the barrier of entry is very low to understand the codes
+
+## 7 - Pilot-induced oscillation and Flying qualities
+
+1 - For the clean/commented code ----
+
+2 - For explanation go to thesis document section 2.6, 2.7, 2.8 for the background and Chapter 8
+
