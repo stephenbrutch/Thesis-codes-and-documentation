@@ -31,7 +31,7 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 ## 4 - PINN Model 3
 
-1 - For the commented/clean Code -----------
+1 - For the commented/clean Code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/PINN_large_data_model_with_tau.ipynb)
 
 2 - For explanataion go to thesis document and it should be Chapter 5
 
