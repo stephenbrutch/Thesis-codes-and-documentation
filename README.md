@@ -13,3 +13,7 @@ All thesis codes and documentation and data can be found here
 1 - For the commented/clean Code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/PINN_foundational_model.ipynb)
 
 2 - For explanataion go to thesis document and it should be Chapter 3-Section 2 aka 3.2
+
+3 - For the data I used so that u can import it into the code and run the code, [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/foundational%20PINN%20data.zip) for the zip file of data. The code is also in this zip file.
+
+Final Thoughts: The code should be well explained enough with comments and the code along with thesis section 3.2 should serve enough of a pseudo readme
