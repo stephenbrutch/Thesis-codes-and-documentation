@@ -61,7 +61,9 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 ## 7 - Pilot-induced oscillation and Flying qualities
 
-1 - For the clean/commented code ----
+1 - For the clean/commented code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/pio_code%20copy%202.ipynb)
+
+  - this code covers how to get the pio values, how to create a model for pio estimation, and how to get general flying qualities
 
 2 - For explanation go to thesis document section 2.6, 2.7, 2.8 for the background and Chapter 8
 
