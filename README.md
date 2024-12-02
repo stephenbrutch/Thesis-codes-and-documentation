@@ -70,6 +70,13 @@ Final Thoughts: The code should be well explained enough with comments and the c
 ## 10 - Sci Tech Paper
 
 1- For scitech paper title "Performance Analysis of Machine Learning Algorithms to Human-Pilot-Model Parameter Estimation"
+  - 1 - For the clean/commented code
+    
+  - For code to train the sklearn models in simulation and save the models [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/sklearn_code_and_simulator_test%20copy.ipynb)
+    
+  - For code to train the NN models in simulation and save the models -------------insert-------
+    
+  - For code to test the saved sklearn and NN models on simulator data [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/test_models_on_simulator_data.ipynb)
 
-  - Code: -----
+2 - For explanation go to thesis document section 2.6, 2.7, 2.8 for the background and Chapter 8
   - Explanation: see paper
