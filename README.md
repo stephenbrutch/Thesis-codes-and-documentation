@@ -38,3 +38,13 @@ Final Thoughts: The code should be well explained enough with comments and the c
 3 - For the data I used so that u can import it into the code and run the code ---still working on how to upload the data since large file size---
 
 Final Thoughts: The code should be well explained enough with comments and the code along with thesis section 5 should serve enough of a pseudo readme
+
+## 5 - PINN Model 4
+
+1 - For the commented/clean Code -------
+
+2 - For explanataion go to thesis document and it should be Chapter 6
+
+3 - For the data I used so that u can import it into the code and run the code ---still working on how to upload the data since large file size---
+
+Final Thoughts: The code should be well explained enough with comments and the code along with thesis section 6 should serve enough of a pseudo readme
