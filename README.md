@@ -51,7 +51,7 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 ## 6 - SciKit Learn
 
-1 - For the commented/clean Code ------
+1 - For the commented/clean Code and save the models [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/sklearn_code_and_simulator_test%20copy.ipynb)
 
 2 - For examplanation go to thesis document Chapter 7 and section 2.4 for the background.
 
