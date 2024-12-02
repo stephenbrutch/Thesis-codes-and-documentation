@@ -21,7 +21,7 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 ## 3 - PINN Model 2
 
-1 - For the commented/clean Code [click here]()
+1 - For the commented/clean Code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/pinn_with_autodiff.ipynb)
 
 2 - For explanataion go to thesis document and it should be Chapter 4
 
