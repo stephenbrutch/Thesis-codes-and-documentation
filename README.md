@@ -8,6 +8,8 @@ All thesis codes and documentation and data can be found here
   - for ease of skimming the paper you should probably just download the pdf
   - also this is the near final version, this one still needs to go through "corrections" but this pdf is 99.999999% the final version
 
+2 - Thesis Slides [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/thesis%20final%20defense%20rough%20draft%20slides.pptx)
+
 ## 2 - Foundational PINN Model
 
 1 - For the commented/clean Code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/PINN_foundational_model.ipynb)
