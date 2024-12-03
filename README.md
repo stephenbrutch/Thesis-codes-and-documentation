@@ -115,11 +115,11 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 2 - There are no materials I just copy paste from thesis so just see above materials for explanation/codes
 
-## 11 - Simulink Model
+## 12 - Pilot Model Simulink Model
 
-1 - Pilot model with Cessna 172. The base is from the previous student who used UKF model however since I didnt need that I got rid of the UKF stuff/commented them out in the Simulink.
+1 - Pilot model with Cessna 172. The base is from the previous student who used UKF model however since I didnt need that I got rid of the UKF stuff/commented them out in the Simulink. This uses the Cessna 172 so I have the matlab/simulink files in the matlab airlib folder that way the models can run.
 
-2 - Matlab file: -----
+2 - Matlab file: [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/UKF_pilotmodel_with_cessna.m). This is a matlab code, the comments are pretty well explained to play with what parameters you want to simulate. There are some extra comments that you will see that are of other stuff that may be helpful however most likely any commented code you probably can just delete.
 
-3 - Simulink file: -----
+3 - Simulink file: [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/cessna_practicemodel.slx). This is simulink file. you will see some annotations on the model to describe what is happening and what switches to flip, etc. To change the parameters in the simulink to either read from time invariant or time variant parameters click: >pilot model block, >only time-invariant, and you'll see on the left it says to either switch up or down what it does.
 
