@@ -51,6 +51,16 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 Final Thoughts: The code should be well explained enough with comments and the code along with thesis section 6 should serve enough of a pseudo readme
 
+## 6 - PINN Model 5
+
+1 - For the commented/clean Code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/PINN_large_data_model_with_tau_2.ipynb)
+
+2 - This code was not used in the thesis however it is just another version I tried. It is essentially the same except instead of looking at error between xhat and xtrue. I calculate xdothat and compare to xdottrue since xdothat is in terms of pitcherror delayed by true tau, true x(t), true tlg. And i can use those known values to compute true xdot to compare to estimated xdot that is a function of pitcherror delayed by est tau, est x(t) and est tlg.
+
+3 - This code worked good for time invaraint however very bad results for time variant
+
+4 - This model also showed good estimation and robustness looking at flight simulator data. And I have a sample flight test estimation at the bottom.
+
 ## 6 - SciKit Learn
 
 1 - For the commented/clean Code and save the models [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/sklearn_code_and_simulator_test%20copy.ipynb)
@@ -102,4 +112,8 @@ Final Thoughts: The code should be well explained enough with comments and the c
 ## 11 - Simulink Model
 
 1 - Pilot model with Cessna 172. The base is from the previous student who used UKF model however since I didnt need that I got rid of the UKF stuff/commented them out in the Simulink.
+
+2 - Matlab file: -----
+
+3 - Simulink file: -----
 
