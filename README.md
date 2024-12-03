@@ -55,7 +55,7 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 1 - For the commented/clean Code [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/PINN_large_data_model_with_tau_2.ipynb)
 
-2 - This code was not used in the thesis however it is just another version I tried. It is essentially the same except instead of looking at error between xhat and xtrue. I calculate xdothat and compare to xdottrue since xdothat is in terms of pitcherror delayed by true tau, true x(t), true tlg. And i can use those known values to compute true xdot to compare to estimated xdot that is a function of pitcherror delayed by est tau, est x(t) and est tlg.
+2 - This code was not used in the thesis however it is just another version I tried. It is essentially the same except instead of looking at error between xhat and xtrue. I calculate xdothat and compare to xdottrue since xdottrue is in terms of pitcherror delayed by true tau, true x(t), true tlg. And i can use those values to compute xdothat which is a function of pitcherror delayed by est tau, est x(t) and est tlg.
 
 3 - This code worked good for time invaraint however very bad results for time variant
 
