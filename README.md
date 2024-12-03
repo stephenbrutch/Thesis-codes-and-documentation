@@ -98,3 +98,8 @@ Final Thoughts: The code should be well explained enough with comments and the c
       - The input sizes are described in the paper. However I will put it briefly here for simplification: for the CNN,RNN requires input shape of n, 1000, 5 and for SkLearn models and dense NN requires input shape of n, 5000. Also dont forget to normalize the data as usaul.
 
 3 - For explanation see paper lol
+
+## 11 - Simulink Model
+
+1 - Pilot model with Cessna 172. The base is from the previous student who used UKF model however since I didnt need that I got rid of the UKF stuff/commented them out in the Simulink.
+
