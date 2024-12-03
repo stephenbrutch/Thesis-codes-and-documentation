@@ -67,6 +67,12 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
   - this code covers how to get the pio values, how to create a model for pio estimation, and how to get general flying qualities
 
+  - I have a KNN saved model for PIO estimation [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/knn_model.pkl) that is saved in the .pkl format (loading it is very easy with google search/chatgpt. The input shape is described in the thesis, but to list it here the input shape is 4: tld,tlg,tau,kp. This model seemed to work pretty good, however there are room for improvements for trying another model or trying with more data, etc. To test the model just make sure to transform the data:
+
+  > from sklearn.preprocessing import StandardScaler
+  > scaler = StandardScaler()
+  > params_scaled = scaler.transform(params)
+
 2 - For explanation go to thesis document section 2.6, 2.7, 2.8 for the background and Chapter 8
 
 ## 8 - System Integration
@@ -87,6 +93,6 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
   - For the zip file of the models that are saved and I then tested them in the codes [click here](https://myerauedu-my.sharepoint.com/:f:/g/personal/brutchs_my_erau_edu/EugrSq7oaFdOtrskAVhFqG8BhAWeA0BkJeNyS17HgFtShQ?e=yNNkcv). Because the zip file is so big I have it uploaded as a folder to OneDrive.
 
-      - The input sizes are described in the paper. However I will put it briefly here for simplification: for the CNN,RNN requires input shape of n, 1000, 5 and for SkLearn models and dense NN requires input shape of n, 5000.
+      - The input sizes are described in the paper. However I will put it briefly here for simplification: for the CNN,RNN requires input shape of n, 1000, 5 and for SkLearn models and dense NN requires input shape of n, 5000. Also dont forget to normalize the data as usaul.
 
 3 - For explanation see paper lol
