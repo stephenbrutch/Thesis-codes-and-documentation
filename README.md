@@ -109,6 +109,12 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
 3 - For explanation see paper lol
 
+## 11 - Sci Tech Paper 2 (Dec 2024)
+
+1 - For scitech paper title "A Physics-Informed Deep Learning Model for Estimating Human Pilot Behavior and Mitigating Adverse Interactions"
+
+2 - There are no materials I just copy paste from thesis so just see above materials for explanation/codes
+
 ## 11 - Simulink Model
 
 1 - Pilot model with Cessna 172. The base is from the previous student who used UKF model however since I didnt need that I got rid of the UKF stuff/commented them out in the Simulink.
