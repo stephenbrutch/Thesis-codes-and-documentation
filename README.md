@@ -85,4 +85,8 @@ Final Thoughts: The code should be well explained enough with comments and the c
     
   - For code to test the saved sklearn and NN models on simulator data [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/test_models_on_simulator_data.ipynb)
 
+  - For the zip file of the models that are saved and I then tested them in the codes [click here](https://myerauedu-my.sharepoint.com/:f:/g/personal/brutchs_my_erau_edu/EugrSq7oaFdOtrskAVhFqG8BhAWeA0BkJeNyS17HgFtShQ?e=yNNkcv). Because the zip file is so big I have it uploaded as a folder to OneDrive.
+
+      - The input sizes are described in the paper. However I will put it briefly here for simplification: for the CNN,RNN requires input shape of n, 1000, 5 and for SkLearn models and dense NN requires input shape of n, 5000.
+
 3 - For explanation see paper lol
