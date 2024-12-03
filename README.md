@@ -67,7 +67,7 @@ Final Thoughts: The code should be well explained enough with comments and the c
 
   - this code covers how to get the pio values, how to create a model for pio estimation, and how to get general flying qualities
 
-  - I have a KNN saved model for PIO estimation [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/knn_model.pkl) that is saved in the .pkl format (loading it is very easy with google search/chatgpt. The input shape is described in the thesis, but to list it here the input shape is 4: tld,tlg,tau,kp. This model seemed to work pretty good, however there are room for improvements for trying another model or trying with more data, etc. To test the model just make sure to transform the data first before testing the model, I believe transforming will get better results:
+  - I have a KNN saved model for PIO estimation [click here](https://github.com/stephenbrutch/Thesis-codes-and-documentation/blob/main/knn_model.pkl) that is saved in the .pkl format (loading it is very easy with google search/chatgpt.) The input shape is described in the thesis, but to list it here the input shape is 4: tld,tlg,tau,kp. This model seemed to work pretty good, however there are room for improvements for trying another model or trying with more data, etc. To test the model just make sure to transform the data first before testing the model, I believe transforming will get better results:
 
   > from sklearn.preprocessing import StandardScaler
 
